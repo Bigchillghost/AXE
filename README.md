@@ -3,6 +3,8 @@ Advanced Mesh Reaper - Xtreme Edition, abbreviated AXE, is a helper tool for int
 
 AXE also attempts to provide more flexibility so as to deal with different data structures. A mesh object can be described with multiple polygon and vertex parameter sets which provides a possibility to handle and validate variable-length data structure, or simply to merge a set of sub-meshes into a single object.
 
+![](MainUI_latestV.png)
+
 # Main Features
 1. Ability to specify individual data source files for polygon and vertex attributes, or to use a single source for all channels;
 2. Support for material assignment and management;
