@@ -23,4 +23,5 @@ AXE also attempts to provide more flexibility so as to deal with different data 
 15. Visualization for positions, texcoords, TBN vectors, vertex colors and skeleton.
 
 # System Requirement
-Windows XP or higher. Microsoft Visual C++ 2015 Redistributable (x86) or above is required for runtime.
+Windows XP, Windows 7, Windows 8 or Windows 10 with Microsoft Visual C++ 2015 Redistributable (x86) or
+newer versions installed.
